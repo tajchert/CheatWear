@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cheat Wear</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <string name="cheat_content">GRUPA  A
+\n2. TRANSPORTERA ABC, których ekspresja jest indukowana przez czynnik transkrypcyjny LXR którego ligandami są 25-hydroksycholesterol i 24,25-epokrycholesterol
+\n3. ROLA AMINOKWASÓW ROZGAŁĘZIONYCH W TRANSLACJI
+\nleucyna – inicjacja procesu translacji, zwiększanie aktywności kinazy mTOR, stymulacja fosforylacji białek wiążących oraz białka S6, stymulowanie tworzenia kompleksu eIF4E
+\n4. KONWERSJA Β-KAROTENU DO RETINALU KATALIZOWANA PRZEZ DIOKSYGENAZĘ zależy od spożycia witaminy A i białka – wzrasta ze zmniejszeniem spożycia witaminy A, maleje, gdy obniżeniu ulega spożycie białka.
+\n5. BUFORUJĄCE DZIAŁANIE MAGNEZU
+\nDziałanie buforujące jak Ca. Komórki pobierają magnez do osiągnięcia pożądanego stężenia. W przypadku niedoboru obniża się stężenie w osoczu przy niezmienionym poziomie wewnątrzkomórkowym. Magnez w kościach zaadsorbowany w warstwie zewnętrznej opuszcza kości w stanach niedoboru Mg i w zakwaszeniu (właściwości buforujące jak Ca). Obniżenie stężenia w starszym wieku.
+\nStężenie w osoczu utrzymywane jest w zakresie 0,75-1 mmol/l przez uwalnianie z zewnętrznej warstwy kości i wzrost reabsorpcji w nerkach. Obniżenie stężenia w osoczu świadczy o poważnym deficycie Mg w organizmie.
+\n7. MECHANIZM WCHŁANIANIA WIT. B12:
+\n- JAMA USTNA - absorpcja małej ilości wolnej B12 przez komórki śluzówki
+\n- ŻOŁĄDEK - Proteoliza białek wiążących przez proteazy żołądkowe
+\n- Po uwolnieniu B12 sekrecja białek R tworzących kompleksy z B12
+\n- Czynnik wewnętrzny (IF) uwalniany przez komórki okładzinowe żołądka pod wpływem gastryny i histaminy oraz pokarmu
+\n- W DWUNASTNICY białka trawione są przez proteazy, a wolna B12 wiąże się z IF
+\n- Kompleks B12/IF wiąże się ze specyficznymi receptorami (kubilina) na enterocytach KOŃCOWEGO ODCINKA JELITA KRĘTEGO. Wiązanie wolnej B12
+\n- IF chroni B12 przed rozkładem przez bakterie jelitowe
+\n- Po wchłonięciu do krążenia wrotnego B12 zostaje przekazana do białka transportującego TCH
+\n- Kompleks B12/TCH wiąże się z receptorami w bł. kom. i ulega endocytozie. TCH jest degradowana w lizosomach, a wolna B12 uwalniana jest do cytoplazmy
+\n9. MECHANIZM AKTYWACJI KALPAIN? Aktywność zależna od poziomu wapnia wewnątrz komórki.  unieczynniane przez wewnątrzkom. inhibitory – kalpastatyny. Uaktywnienie pod wpływem przeniesienia w okolice błony komórkowej i ograniczonej autolizy, a następnie jonów wapniowych i innych czynników aktywujących
+\n11. ALFA-TPP JEST BIAŁKIEM, KTÓRE pośredniczy przy wbudowywaniu alfa-tokoferolu do VLDL  i zależy od spożycia alfa-tokoferolu z dietą
+\n12. KWASY ŻÓŁCIOWE SĄ PRZENOSZONE ZA pomocą Transporterów NTCP i OATP  i regulują ekspresję 7-alfa-hydroksylazy cholesterolu za pośrednictwem receptorów FXR
+\n13. SELENOPROTEID P
+\n- Główny osoczowy i pozakomórkowy selenoproteid
+\n- Syntetyzowany i wydzielany przez większość tkanek, głównie jednak przez wątrobę
+\n- Szybki turnover: okres półtrwania 3-4h
+\n- Wiąże się z komórkami śródbłonka
+\n- pełnej długości zawiera 10 reszt cysteinowych
+\n- Prawdopodobnie odpowiedzialny za utrzymanie homeostazy selenu w organizmie
+\n14. ZnT-8 - Ekspresja wyłącznie w komórkach beta trzustki
+\n- Zn jest niezbędny do wydzielania insuliny – jej umieszczania w pęcherzykach wydzielniczych i uwalniania
+\n- Polimorfizm ZnT-8 u ludzi jest związany z podatnością na cukrzycę typu II
+\n16.  ZnT-2
+\n-odpowiada za transport Zn do pęcherzyków retikulum endoplazma tycznego i lizosomów w jelicie cienkim i nerkach, łożysku, trzustce, gruczole mlecznym
+\n17. ZnT-5,6
+\n- transport Zn do pęcherzyków zawierających insulinę i pęch. Aparatu Golgiego
+\n- ekspresja w komórkach beta trzustki, jelicie, sercu, mózgu, nerkach, wątrobie
+\n- niezbędny do wydzielania enzymów zawierających Zn
+\n17. MAGNEZ JEST TRANSPORTOWANY ZA POMOCĄ:
+\nTransportery TRPM 6 i 7
+\nw błonie apikalnej TRPM6 (wchłanianie Mg)
+\nw kanalikach nerkowych dalszych TRPM 6,7 (reabsorpcja Mg)
+\n20. WAPŃ WPŁYWA NA SKURCZ MIĘŚNI WIĄŻĄC SIĘ Z BIAŁKAMI
+\nKalbindyna, Troponina
+\n
+\n
+\nGRUPA B
+\n1.MECHANIZM TRANSPORTU WIT C W PRZEWODZIE POKARMOWYM,
+\nkwas askorbinowy – transportery SVCT1 i SVCT2
+\n- Napędzany przez gradient stężeń Na+
+\n- Gradient utrzymywany przez ATP-azę Na/K
+\n- Askorbinian może być transportowany wbrew gradientowi stężeń
+\n- symport z jonami sodu
+\nkwas dehydroaskorbinowy przez transportery glukozy
+\n- Kwas askorbinowy -> kwas dehydroaskorbinowy
+\n- Przenoszenie przez przenośniki
+\nTransport kwasu askorbinowego do wnętrza enterocytów jest regulowany przez jego stężenie.
+\n2.GENY DOCELOWE SREB1C,
+\n- Liaza cytrynianowa
+\n- Karboksylaza acetylo-CoA
+\n- Syntaza kwasów tłuszczowych
+\n- Desaturaza stearoilo-CoA
+\n- Acylotransferaza 3-fosforanu glicerolu.
+\n3. ROLA KALBINDYNY,
+\nwiązanie wapnia:
+\n- Jelitowa uczestniczy w jego wchłanianiu
+\n- Nerkowa w resorpcji z przesączu kłębuszkowego
+\nW neuronach kalbindyna zabezpiecza przed wzrostem stężenia Ca, a tym samym chroni przed apoptozą
+\n5. ROLA METALOTIONEINY W HOMEOSTAZIE CYNKU,
+\n-Buforuje poziom wolnego cynku
+\n- Jest białkiem aktywnym oksydoredukcyjnie
+\n- Uwalnia cynk w obecności oksydantów, przenosi go do mitochondrium, gdzie zapobiega powstawaniu wolnych rodników
+\n- Występuje w tkance tłuszczowej – zapobiega zagrożeniu oksydacyjnemu ze strony wielonienasyconych kwasów tłuszczowych WNKT
+\n7.ROLA WIT K W PROCESIE TWORZENIA KOŚCI,
+\n- hamuje resorpcję kości indukując apoptozę osteoklastów, hamując apoptozę osteoblastów i indukując różnicowanie komórek progenitorowych w komórki kościotwórcze
+\n-hamuje syntezę prostaglandyny E2, czynnika indukującego resorpcję kości
+\n- uczestniczy w karboksylacji = uaktywnianiu osteokalcyny, która pośredniczy we wbudowywaniu Ca do hydroksyapatytu, stanowiącego 70% masy kostnej
+\n11.WCHŁANIANIE FOLIANU ZAŁEŻY OD pH – wychwyt większy w pH kwaśnym, niż obojętnym i alkalicznym
+\n12. CHOROBA WILSONA – autosomalna recesywna toksykoza miedziowa – gromadzenie miedzi w wątrobie i innych tkankach – uszkodzenie wątroby i układu nerwowego, Defekt genu ATP7B
+\n13. GLUKOZA DZIAŁA ZA POŚREDNICTWEM czynników transkrypcyjnych: ChREBP, GIRBEP, PDX, SP
+\n15.ZNACZENIE KWASU PANTOTENOWEGO DLA ORG,
+\n- Składnik koenzymu A – metabolizm lipidów i glukozy
+\nAcetylo-CoA: Cykl Krebsa, Synteza KT, Synteza ciał ketonowych, Synteza cholesterolu, Aktywacja długołańcuchowych  KT
+\n16. .JAK REGULOWANA JEST HOMEOSTAZA ŻELAZA? białka transportujące i magazynujące
+\n18. JAKIE BIAŁKA WPŁYWAJĄ NA WCHŁANIANIE B12? Białka IF
+\n19.ZALEŻNOŚĆ MIĘDZY INSULINĄ A CHROMEM:
+\n-Chrom jest transportowany do tkanek przez transferrynę
+\n -Insulina stymuluje przemieszczanie receptora transferynowego do błony komórkowej
+\n-Z kompleksu transferryna – receptor Cr jest uwalniany po zakwaszeniu pęcherzyka endocytotycznego (w błonie pęcherzyka znajduje się ATP-aza tłocząca jony wodorowe do wnętrza pęcherzyka)
+\n-Chrom wiąże się z apochromoduliną (chromodulina pozbawiona chromu)
+\n-Chromodulina po związaniu chromu wiąże się z receptorem insulinowym, stymuluje jego aktywność kinazową, hamuje fosfatazę receptora i tą drogą wzmacnia sygnał insulinowy
+\n20.BIODOSTĘPNOŚĆ TOKOFEROLI
+\nBiodostępność różnych form witaminy E jest zróżnicowana – np. chociaż poziom gamma-tokoferolu w diecie jest wyższy niż alfa-tokoferolu, stężenie gamma w osoczu stanowi 0,1alfa. Różnice w biodostępności nie wynikają z różnic we wchłanianiu. Wszystkie postacie witaminy E są wchłaniane do enterocytów w jednakowym stopniu.
+\n- Alfa-tokoferol jest w największym stopniu zatrzymywany w organizmie
+\n- Inne formy witaminy E ulegają w większej ilości wydalaniu z żółcią, a ich rozpuszczalne w wodzie metabolity także z moczem.
+\nBiodostępność tokoferoli zależy od:
+\n-ich wydalania (z żółcią/moczem)
+\n-obecności białek wiążących(alfa TPP, TAP)
+\n
+\nGRUPA C
+\n1. WCHŁANIANIE WIT C.
+\n- Wysycalny transport z udziałem przenośników
+\n1. Kwasu askorbinowego (SVCT1 i SVCT2)
+\n2. Glukozy (GLUT 1,3,4)
+\n- Lub dyfuzja (przez przestrzenie międzykomórkowe)
+\n2.MECHANIZM TRANSPORTU ŻELAZA DO KOMÓREK,
+\nTransport do wnętrza enterocytów przez transporter metali dwuwartościowych (NRAMP2 lub DMT) poprzedzony redukcją żelaza trójwartościowego przez reduktazę.
+\n3.FUNKCJĄ LIPAZY LIPOPROTEINOWEJ JESTrozkład triglicerydów
+\nCholesterol opuszcza wątrobę w lipoproteinach o bardzo niskiej gęstości –VLDL, które ulegają hydrolizie w IDL – lipoproteiny o gęstości pośredniej, a następnie w LDL – lipoproteiny o niskiej gęstości –pod wpływem LIPAZY LIPOPROTEINOWEJ umieszczonej w ścianach naczyń krwionośnych.
+\n4.DO CZYNNIKÓW REGULUJĄCYCH HOMEOSTAZĘ RETINOIDÓW NALEŻĄ:
+\n- 26-alfa-Hydroksylaza kwasu retinowego
+\n- Acylotransferaza lecytyna: retinol (LRAT)
+\n5. ANTYCUKRZYCOWE DZIAŁANIE WITAMINY K POLEGA NA: witamina K za pośrednictwem osteokalcyny może wpływać na wydzielanie insuliny i jej działanie w tkankach docelowych.
+\nOsteokalcyna stymuluje wydzielanie insuliny i zwiększa insulinowrażliwość tkanek.
+\n6.PROCESY ZWIEKSZONE W FAZIE GŁODU:
+\n- Lipoliza, Proteoliza, Ketogeneza, Katabolizm aminokwasów, Glukoneogeneza
+\n 7.CHARAKTERYSTYKA TRANSPORTERA CYNKU ZnT-1
+\n- Ekspresja w błonie komórkowej w wielu tkankach, m.in. w jelicie, wątrobie, nerkach, mózgu
+\n- Zapobiega nadmiernemu wzrostowi stężenia Zn w komórce prawdopodobnie hamując transport Zn przez kanały wapniowe
+\n- W mózgu zmniejsza toksyczność Zn w neuronach i astrocytach
+\n- Ekspresja regulowana przez czynnik transkrypcyjny MTF-1 – indukcja przy wzroście poziomu Zn w komórce
+\n8.RECEPTORY PPAR-ALFA STYMULUJĄ: utlenianie kwasów tłuszczowych (AcTK, enzymy β-oksydacji)
+\n8. GENY PPAR-ALFA INDUKUJĄ EKSPRESJĘ: oksydazy długołańcuchowych kwasów tłuszczowych
+\n9.REAKCJA KARBOKSYLACJI ZA POŚREDNICTWEM WIT: B1,B2, kwasu foliowego, biotyny, K,
+\n11.EKSPRESJA GENU HYDROKSYLAZY 1Α-25-OH-D3:
+\n- Indukowana przez parathormon
+\n- Jej synteza i aktywność są hamowane przez kalcytriol
+\n12. ChREBP (czynnik transkrypcyjny, białko wiążące odpowiadające na glukozę) regulowany przez (mechanizm ekspresji genów przez glukozę i CAMP w hepatocytach):
+\n- cAMP i AMPK uaktywniają kinazę fosforylującą ChREBP
+\n- ChREBP ufosforylowany = nieaktywny znajduje się w cytosolu
+\n- Uaktywnienie fosfatazy przez ksylulozo-5-fosforan i defosforylacja ChREBP w miejscu P1 umożliwiają jego przemieszczenie się do jądra
+\n- W jądrze glukoza uaktywnia następną fosfatazę, która defosforyluje miejsce P3 umożliwiając wiązanie ChREBP z ChRE w promotorze docelowego genu i indukcję transkrypcji
+\n13. CHOLESTEROL W ENTEROCYCIE:
+\n- Cholesterol jest transportowany z micelli do wnętrza enterocytu przez kanał NPC1L1.
+\n- Część cholesterolu jest wyrzucana z enterocytu z powrotem do światła jelita przez transportery ABCG5/G8 należące do rodziny transporterów ABC wiążących ATP.
+\n- Pozostały cholesterol jest estryfikowany przez transferazę acylo-CoA-cholesterol – ACAT.
+\n- Transportery ABCA1 ulokowane są w błonie podstawno-bocznej enterocytów i pośredniczą w przeniesieniu cholesterolu do lipoprotein wysokiej gęstości – HDL.
+\n- Estry cholesterolu umieszczane są w chylomikronach przez mikrosomalne białko transportujące triglicerydy – MTP
+\n- Chylomikrony = lipoproteiny składające się z triglicerydów, estrów cholesterolu, estrów retinolu i białek – apoprotein: apoB-48, apoA-I, apoA-II, apo-AIV.
+\n14. WYDALANIE FOSFORANÓW JEST HAMOWANE PRZEZ: kalcytriol
+\n15. WPŁYW ALFA TOKOFEROLU NA METABOLIZM TKANKI ŁĄCZNEJ: witamina E indukuje transkrypcję genów białek tkanki łącznej i czynników regulujących – tropomiozyny, kolagenu, czynnika wzrostu tkanki łącznej
+\n16. AMPK – enzym aktywny w niedożywieniu komórki, hamowany przez zapasy energii i substratów energetycznych
+\n- Odpowiada na poziom energii w komórce
+\n-  Wpływa na aktywność kluczowych enzymów szlaków metabolicznych
+\n-  Adaptuje metabolizm do możliwości energetycznych organizmu
+\n- Negatywnym regulatorem allosterycznym AMPK jest fosfokreatyna
+\n- AMPK ma domenę wiążącą glikogen – wysoki poziom glikogenu w mięśniach obniża aktywność AMPK
+\n- AMPK jest aktywowana przez fosforylację i AMP
+\n- Bardzo duża czułość aktywności AMPK na działanie AMP – mała zmiana w stężeniu AMP w znacznym stopniu zwiększa aktywność AMPK
+\nAMPK hamuje procesy zużywające energię, pobudza dostarczające energii
+\n18. KTÓRY ENZYM MA NAJKRÓTSZY OKRES PÓŁTRWANIA: dekarboksylaza ornitynowa (0,008) oksygenaza tryptofanu (0,08), aminotransferaza tyrozynowa (0,06) polimeraza RNA I (0,05),
+\n
+\nGRUPA D
+\n1. CHOLESTEROL OPUSZCZA WĄTROBĘ w lipoproteinach bardzo niskiej gęstości– VLDL, które ulegają hydrolizie w IDL – lipoproteiny o gęstości pośredniej, a następnie w LDL – lipoproteiny o niskiej gęstości –pod wpływem LIPAZY LIPOPROTEINOWEJ umieszczonej w ścianach naczyń krwionośnych.
+\n2.ENZYMY W OBRONIE PRZECIWOKSYDACYJNEJ: peroksydazy glutationowe, katalaza, dysmutaza ponadtlenkowa, dehydrogenaza glukozo-6-fosforanu
+\n3. MECHANIZM WCHŁANIANIA CA W PRZEWODZIE POKARMOWYM:
+\n- Kalbindyna (ekspresja indukowana przez kalcytriol) uczestniczy we wchłanianiu jonów wapniowych transportując je wewnątrz enterocytu
+\n- W nieobecności witaminy D transport Ca spada do 1/70, Ca wchodzi do enterocytu, ale pozostaje w okolicy rąbka prążkowanego – realimentacja witaminą D powoduje rozproszenie Ca w całej cytoplazmie
+\n- Wyjście Ca z enterocytu do krwi – aktywne – na skutek działania ATP-azy wapniowej
+\nATP-aza w błonie podstawno-bocznej wytwarza w enterocycie gradient Ca, dzięki któremu jony Ca wchodzą ze światła jelita do enterocytu
+\n- Wchłanianie bierne – wzdłuż całego jelita cienkiego i w części grubego (kątnica, okrężnica wstępująca). Wchłanianie Ca w jelicie grubym – około 10% niezależnie od wielkości spożycia
+\n4. ROLA PDX
+\nCzynnik PDX1 bierze udział w indukcji ekspresji genu insuliny. Wzrost stężenia glukozy wewnątrz komórki beta powoduje fosforylację PDX1 i przemieszczenie z cytoplazmy do jądra. Podobnie działają inne składniki pokarmowe stymulujące wydzielanie insuliny (fruktoza, ksylitol, pirogronian)
+\n5. ZnT-3:
+\n-Transport Zn do pęcherzyków synaptycznych w neuronach glutaminergicznych mózgu – modulowanie sygnału – neurony gluzinergiczne
+\n-Regulator glutaminergiczny AMPA
+\n6. PRZYKŁADY GENÓW DOCELOWYCH DLA SREBP-2:
+\ngeny docelowe związane ze wzrostem poziomu cholesterolu w komórce i jego estryfikacją:
+\n- Receptor LDL
+\n- Enzymy szlaku syntezy cholesterolu
+\n- Enzymy syntezy kwasów tłuszczowych
+\n- SREBP.
+\n7. WZROST STĘŻEŃ W OSOCZU PO POSIŁKU PROPORCJONALNY DO ILOŚCI SPOŻYTEJ DOTYCZY NASTĘPUJĄCYCH AMINOKWASÓW: walina, leucyna, izoleucyna, alanina
+\n10. FUNKCJE PROTEOLIZY WEWNĄTRZKOM.
+\n- Powiązanie metabolizmu białek z metabolizmem energetycznym
+\n- Dopasowanie metabolizmu do aktualnych potrzeb przez rozkładanie enzymów i innych czynników regulujących
+\n- Zapewnienie odpowiedniej jakości białek w komórce przez usuwanie białek o nieprawidłowej strukturze
+\n- Regulacja wydzielania hormonów
+\n12.KINAZA AKTYWOWANA PRZEZ AMP STYMULUJE PROCES:
+\nfosforylacji białek zaangażowanych w odpowiedź metabolizmu na zmiany w ładunku elektrycznym komórki
+\n 13.MECHANIZM WCHŁANIANIA TIAMINY,
+\n- Przeniesienie do wnętrza enterocytów przez specyficzne transportery – antyport z jonami wodorowymi
+\n- Fosforylacja tiaminy do pirofosforanu tiaminy (TPP) – zwiększenie różnicy stężeń tiaminy między światłem jelita a wnętrzem enterocytu
+\n- Defosforylacja TPP i powstanie tiaminy (90%) oraz monofosforanu tiaminy (10%) przed przeniesieniem do krwi
+\n- Transport do krwi – symport z jonami sodowymi aktywnie wyrzucanymi do krwi przez ATP-azę sodowo-potasową
+\n15.BIAŁKA DLA RETINOIDÓW
+\na.CRBPI – cytosolowe białko wiążące retinol typu I
+\nb.CRBPII – cytosolowe białko wiążące retinol typu II
+\nc.RBP – białko wiążące retinol
+\n16. APOPTOZA – wywołana przez czynniki wewnętrzne lub zewnętrzne z uruchomieniem aparatu apoptotycznego:
+\n- Kurczenie się komórki
+\n- Powstawanie pęcherzyków na powierzchni błony komórkowej
+\n17. WPŁYW ANTYKOAGULANTU WARFARYNY NA METABOLIZM WITAMINY K POLEGA NA: INHIBICJI enzymu REDUKTAZY EPOKSYDOWEJ która jest odpowiedzialna za redukcję chinonu do hydrochinonu. Działa też przez hamowanie w wątrobie syntezy aktywnych postaci czynników krzepnięcia krwi zależnych od wit. K. Warfaryna wpływa też na zmniejszenie masy kostnej.
+\n19. GENY REGULOWANE PRZEZ KALCYTRIOL tworzą grupy:
+\n- Geny białek zaangażowanych w metabolizm wapnia i kości oraz ich regulację – kalbindyna, PTH
+\n- Metabolizm energetyczny
+\n- Metabolizm żelaza
+\n- Reakcje odpornościowe
+\n- Geny białek tkanki łącznej i regulacyjnych</string>
+
+</resources>
