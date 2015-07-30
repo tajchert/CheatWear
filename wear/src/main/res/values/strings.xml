@@ -5,203 +5,199 @@
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
 
-    <string name="cheat_content">GRUPA  A
-\n2. TRANSPORTERA ABC, których ekspresja jest indukowana przez czynnik transkrypcyjny LXR którego ligandami są 25-hydroksycholesterol i 24,25-epokrycholesterol
-\n3. ROLA AMINOKWASÓW ROZGAŁĘZIONYCH W TRANSLACJI
-\nleucyna – inicjacja procesu translacji, zwiększanie aktywności kinazy mTOR, stymulacja fosforylacji białek wiążących oraz białka S6, stymulowanie tworzenia kompleksu eIF4E
-\n4. KONWERSJA Β-KAROTENU DO RETINALU KATALIZOWANA PRZEZ DIOKSYGENAZĘ zależy od spożycia witaminy A i białka – wzrasta ze zmniejszeniem spożycia witaminy A, maleje, gdy obniżeniu ulega spożycie białka.
-\n5. BUFORUJĄCE DZIAŁANIE MAGNEZU
-\nDziałanie buforujące jak Ca. Komórki pobierają magnez do osiągnięcia pożądanego stężenia. W przypadku niedoboru obniża się stężenie w osoczu przy niezmienionym poziomie wewnątrzkomórkowym. Magnez w kościach zaadsorbowany w warstwie zewnętrznej opuszcza kości w stanach niedoboru Mg i w zakwaszeniu (właściwości buforujące jak Ca). Obniżenie stężenia w starszym wieku.
-\nStężenie w osoczu utrzymywane jest w zakresie 0,75-1 mmol/l przez uwalnianie z zewnętrznej warstwy kości i wzrost reabsorpcji w nerkach. Obniżenie stężenia w osoczu świadczy o poważnym deficycie Mg w organizmie.
-\n7. MECHANIZM WCHŁANIANIA WIT. B12:
-\n- JAMA USTNA - absorpcja małej ilości wolnej B12 przez komórki śluzówki
-\n- ŻOŁĄDEK - Proteoliza białek wiążących przez proteazy żołądkowe
-\n- Po uwolnieniu B12 sekrecja białek R tworzących kompleksy z B12
-\n- Czynnik wewnętrzny (IF) uwalniany przez komórki okładzinowe żołądka pod wpływem gastryny i histaminy oraz pokarmu
-\n- W DWUNASTNICY białka trawione są przez proteazy, a wolna B12 wiąże się z IF
-\n- Kompleks B12/IF wiąże się ze specyficznymi receptorami (kubilina) na enterocytach KOŃCOWEGO ODCINKA JELITA KRĘTEGO. Wiązanie wolnej B12
-\n- IF chroni B12 przed rozkładem przez bakterie jelitowe
-\n- Po wchłonięciu do krążenia wrotnego B12 zostaje przekazana do białka transportującego TCH
-\n- Kompleks B12/TCH wiąże się z receptorami w bł. kom. i ulega endocytozie. TCH jest degradowana w lizosomach, a wolna B12 uwalniana jest do cytoplazmy
-\n9. MECHANIZM AKTYWACJI KALPAIN? Aktywność zależna od poziomu wapnia wewnątrz komórki.  unieczynniane przez wewnątrzkom. inhibitory – kalpastatyny. Uaktywnienie pod wpływem przeniesienia w okolice błony komórkowej i ograniczonej autolizy, a następnie jonów wapniowych i innych czynników aktywujących
-\n11. ALFA-TPP JEST BIAŁKIEM, KTÓRE pośredniczy przy wbudowywaniu alfa-tokoferolu do VLDL  i zależy od spożycia alfa-tokoferolu z dietą
-\n12. KWASY ŻÓŁCIOWE SĄ PRZENOSZONE ZA pomocą Transporterów NTCP i OATP  i regulują ekspresję 7-alfa-hydroksylazy cholesterolu za pośrednictwem receptorów FXR
-\n13. SELENOPROTEID P
-\n- Główny osoczowy i pozakomórkowy selenoproteid
-\n- Syntetyzowany i wydzielany przez większość tkanek, głównie jednak przez wątrobę
-\n- Szybki turnover: okres półtrwania 3-4h
-\n- Wiąże się z komórkami śródbłonka
-\n- pełnej długości zawiera 10 reszt cysteinowych
-\n- Prawdopodobnie odpowiedzialny za utrzymanie homeostazy selenu w organizmie
-\n14. ZnT-8 - Ekspresja wyłącznie w komórkach beta trzustki
-\n- Zn jest niezbędny do wydzielania insuliny – jej umieszczania w pęcherzykach wydzielniczych i uwalniania
-\n- Polimorfizm ZnT-8 u ludzi jest związany z podatnością na cukrzycę typu II
-\n16.  ZnT-2
-\n-odpowiada za transport Zn do pęcherzyków retikulum endoplazma tycznego i lizosomów w jelicie cienkim i nerkach, łożysku, trzustce, gruczole mlecznym
-\n17. ZnT-5,6
-\n- transport Zn do pęcherzyków zawierających insulinę i pęch. Aparatu Golgiego
-\n- ekspresja w komórkach beta trzustki, jelicie, sercu, mózgu, nerkach, wątrobie
-\n- niezbędny do wydzielania enzymów zawierających Zn
-\n17. MAGNEZ JEST TRANSPORTOWANY ZA POMOCĄ:
-\nTransportery TRPM 6 i 7
-\nw błonie apikalnej TRPM6 (wchłanianie Mg)
-\nw kanalikach nerkowych dalszych TRPM 6,7 (reabsorpcja Mg)
-\n20. WAPŃ WPŁYWA NA SKURCZ MIĘŚNI WIĄŻĄC SIĘ Z BIAŁKAMI
-\nKalbindyna, Troponina
+    <string name="cheat_content">
+        ZARZĄDZANIE PRODUKCJĄ-działalność praktyczna i dziedzina naukowa w ramach teorii organizacji i zarządzania zajmująca się naukowym rozwiązaniem problemów związanych z realizacją funkcji produkcji.
 \n
+\nCO OBEJMUJE ZARZĄDZANIE PRODUKCJĄ?
+\n•Analiza potrzeb i możliwości
+\n•Zaopatrzenie
+\n•Sposoby wytwarzania (proces przetwarzania energii, materii i informacji)
 \n
-\nGRUPA B
-\n1.MECHANIZM TRANSPORTU WIT C W PRZEWODZIE POKARMOWYM,
-\nkwas askorbinowy – transportery SVCT1 i SVCT2
-\n- Napędzany przez gradient stężeń Na+
-\n- Gradient utrzymywany przez ATP-azę Na/K
-\n- Askorbinian może być transportowany wbrew gradientowi stężeń
-\n- symport z jonami sodu
-\nkwas dehydroaskorbinowy przez transportery glukozy
-\n- Kwas askorbinowy -> kwas dehydroaskorbinowy
-\n- Przenoszenie przez przenośniki
-\nTransport kwasu askorbinowego do wnętrza enterocytów jest regulowany przez jego stężenie.
-\n2.GENY DOCELOWE SREB1C,
-\n- Liaza cytrynianowa
-\n- Karboksylaza acetylo-CoA
-\n- Syntaza kwasów tłuszczowych
-\n- Desaturaza stearoilo-CoA
-\n- Acylotransferaza 3-fosforanu glicerolu.
-\n3. ROLA KALBINDYNY,
-\nwiązanie wapnia:
-\n- Jelitowa uczestniczy w jego wchłanianiu
-\n- Nerkowa w resorpcji z przesączu kłębuszkowego
-\nW neuronach kalbindyna zabezpiecza przed wzrostem stężenia Ca, a tym samym chroni przed apoptozą
-\n5. ROLA METALOTIONEINY W HOMEOSTAZIE CYNKU,
-\n-Buforuje poziom wolnego cynku
-\n- Jest białkiem aktywnym oksydoredukcyjnie
-\n- Uwalnia cynk w obecności oksydantów, przenosi go do mitochondrium, gdzie zapobiega powstawaniu wolnych rodników
-\n- Występuje w tkance tłuszczowej – zapobiega zagrożeniu oksydacyjnemu ze strony wielonienasyconych kwasów tłuszczowych WNKT
-\n7.ROLA WIT K W PROCESIE TWORZENIA KOŚCI,
-\n- hamuje resorpcję kości indukując apoptozę osteoklastów, hamując apoptozę osteoblastów i indukując różnicowanie komórek progenitorowych w komórki kościotwórcze
-\n-hamuje syntezę prostaglandyny E2, czynnika indukującego resorpcję kości
-\n- uczestniczy w karboksylacji = uaktywnianiu osteokalcyny, która pośredniczy we wbudowywaniu Ca do hydroksyapatytu, stanowiącego 70% masy kostnej
-\n11.WCHŁANIANIE FOLIANU ZAŁEŻY OD pH – wychwyt większy w pH kwaśnym, niż obojętnym i alkalicznym
-\n12. CHOROBA WILSONA – autosomalna recesywna toksykoza miedziowa – gromadzenie miedzi w wątrobie i innych tkankach – uszkodzenie wątroby i układu nerwowego, Defekt genu ATP7B
-\n13. GLUKOZA DZIAŁA ZA POŚREDNICTWEM czynników transkrypcyjnych: ChREBP, GIRBEP, PDX, SP
-\n15.ZNACZENIE KWASU PANTOTENOWEGO DLA ORG,
-\n- Składnik koenzymu A – metabolizm lipidów i glukozy
-\nAcetylo-CoA: Cykl Krebsa, Synteza KT, Synteza ciał ketonowych, Synteza cholesterolu, Aktywacja długołańcuchowych  KT
-\n16. .JAK REGULOWANA JEST HOMEOSTAZA ŻELAZA? białka transportujące i magazynujące
-\n18. JAKIE BIAŁKA WPŁYWAJĄ NA WCHŁANIANIE B12? Białka IF
-\n19.ZALEŻNOŚĆ MIĘDZY INSULINĄ A CHROMEM:
-\n-Chrom jest transportowany do tkanek przez transferrynę
-\n -Insulina stymuluje przemieszczanie receptora transferynowego do błony komórkowej
-\n-Z kompleksu transferryna – receptor Cr jest uwalniany po zakwaszeniu pęcherzyka endocytotycznego (w błonie pęcherzyka znajduje się ATP-aza tłocząca jony wodorowe do wnętrza pęcherzyka)
-\n-Chrom wiąże się z apochromoduliną (chromodulina pozbawiona chromu)
-\n-Chromodulina po związaniu chromu wiąże się z receptorem insulinowym, stymuluje jego aktywność kinazową, hamuje fosfatazę receptora i tą drogą wzmacnia sygnał insulinowy
-\n20.BIODOSTĘPNOŚĆ TOKOFEROLI
-\nBiodostępność różnych form witaminy E jest zróżnicowana – np. chociaż poziom gamma-tokoferolu w diecie jest wyższy niż alfa-tokoferolu, stężenie gamma w osoczu stanowi 0,1alfa. Różnice w biodostępności nie wynikają z różnic we wchłanianiu. Wszystkie postacie witaminy E są wchłaniane do enterocytów w jednakowym stopniu.
-\n- Alfa-tokoferol jest w największym stopniu zatrzymywany w organizmie
-\n- Inne formy witaminy E ulegają w większej ilości wydalaniu z żółcią, a ich rozpuszczalne w wodzie metabolity także z moczem.
-\nBiodostępność tokoferoli zależy od:
-\n-ich wydalania (z żółcią/moczem)
-\n-obecności białek wiążących(alfa TPP, TAP)
+\nZARZĄDZANIE JAKOŚCIĄ – wszelkie działania kierownictwa, które określają politykę jakości, cele i odpowiedzialności określają, jak również, które poprzez takie środki, jak:
+\nplanowanie jakości, sterowanie jakością, zapewnienie jakości oraz poprawę jakości politykę tę realizują.
 \n
-\nGRUPA C
-\n1. WCHŁANIANIE WIT C.
-\n- Wysycalny transport z udziałem przenośników
-\n1. Kwasu askorbinowego (SVCT1 i SVCT2)
-\n2. Glukozy (GLUT 1,3,4)
-\n- Lub dyfuzja (przez przestrzenie międzykomórkowe)
-\n2.MECHANIZM TRANSPORTU ŻELAZA DO KOMÓREK,
-\nTransport do wnętrza enterocytów przez transporter metali dwuwartościowych (NRAMP2 lub DMT) poprzedzony redukcją żelaza trójwartościowego przez reduktazę.
-\n3.FUNKCJĄ LIPAZY LIPOPROTEINOWEJ JESTrozkład triglicerydów
-\nCholesterol opuszcza wątrobę w lipoproteinach o bardzo niskiej gęstości –VLDL, które ulegają hydrolizie w IDL – lipoproteiny o gęstości pośredniej, a następnie w LDL – lipoproteiny o niskiej gęstości –pod wpływem LIPAZY LIPOPROTEINOWEJ umieszczonej w ścianach naczyń krwionośnych.
-\n4.DO CZYNNIKÓW REGULUJĄCYCH HOMEOSTAZĘ RETINOIDÓW NALEŻĄ:
-\n- 26-alfa-Hydroksylaza kwasu retinowego
-\n- Acylotransferaza lecytyna: retinol (LRAT)
-\n5. ANTYCUKRZYCOWE DZIAŁANIE WITAMINY K POLEGA NA: witamina K za pośrednictwem osteokalcyny może wpływać na wydzielanie insuliny i jej działanie w tkankach docelowych.
-\nOsteokalcyna stymuluje wydzielanie insuliny i zwiększa insulinowrażliwość tkanek.
-\n6.PROCESY ZWIEKSZONE W FAZIE GŁODU:
-\n- Lipoliza, Proteoliza, Ketogeneza, Katabolizm aminokwasów, Glukoneogeneza
-\n 7.CHARAKTERYSTYKA TRANSPORTERA CYNKU ZnT-1
-\n- Ekspresja w błonie komórkowej w wielu tkankach, m.in. w jelicie, wątrobie, nerkach, mózgu
-\n- Zapobiega nadmiernemu wzrostowi stężenia Zn w komórce prawdopodobnie hamując transport Zn przez kanały wapniowe
-\n- W mózgu zmniejsza toksyczność Zn w neuronach i astrocytach
-\n- Ekspresja regulowana przez czynnik transkrypcyjny MTF-1 – indukcja przy wzroście poziomu Zn w komórce
-\n8.RECEPTORY PPAR-ALFA STYMULUJĄ: utlenianie kwasów tłuszczowych (AcTK, enzymy β-oksydacji)
-\n8. GENY PPAR-ALFA INDUKUJĄ EKSPRESJĘ: oksydazy długołańcuchowych kwasów tłuszczowych
-\n9.REAKCJA KARBOKSYLACJI ZA POŚREDNICTWEM WIT: B1,B2, kwasu foliowego, biotyny, K,
-\n11.EKSPRESJA GENU HYDROKSYLAZY 1Α-25-OH-D3:
-\n- Indukowana przez parathormon
-\n- Jej synteza i aktywność są hamowane przez kalcytriol
-\n12. ChREBP (czynnik transkrypcyjny, białko wiążące odpowiadające na glukozę) regulowany przez (mechanizm ekspresji genów przez glukozę i CAMP w hepatocytach):
-\n- cAMP i AMPK uaktywniają kinazę fosforylującą ChREBP
-\n- ChREBP ufosforylowany = nieaktywny znajduje się w cytosolu
-\n- Uaktywnienie fosfatazy przez ksylulozo-5-fosforan i defosforylacja ChREBP w miejscu P1 umożliwiają jego przemieszczenie się do jądra
-\n- W jądrze glukoza uaktywnia następną fosfatazę, która defosforyluje miejsce P3 umożliwiając wiązanie ChREBP z ChRE w promotorze docelowego genu i indukcję transkrypcji
-\n13. CHOLESTEROL W ENTEROCYCIE:
-\n- Cholesterol jest transportowany z micelli do wnętrza enterocytu przez kanał NPC1L1.
-\n- Część cholesterolu jest wyrzucana z enterocytu z powrotem do światła jelita przez transportery ABCG5/G8 należące do rodziny transporterów ABC wiążących ATP.
-\n- Pozostały cholesterol jest estryfikowany przez transferazę acylo-CoA-cholesterol – ACAT.
-\n- Transportery ABCA1 ulokowane są w błonie podstawno-bocznej enterocytów i pośredniczą w przeniesieniu cholesterolu do lipoprotein wysokiej gęstości – HDL.
-\n- Estry cholesterolu umieszczane są w chylomikronach przez mikrosomalne białko transportujące triglicerydy – MTP
-\n- Chylomikrony = lipoproteiny składające się z triglicerydów, estrów cholesterolu, estrów retinolu i białek – apoprotein: apoB-48, apoA-I, apoA-II, apo-AIV.
-\n14. WYDALANIE FOSFORANÓW JEST HAMOWANE PRZEZ: kalcytriol
-\n15. WPŁYW ALFA TOKOFEROLU NA METABOLIZM TKANKI ŁĄCZNEJ: witamina E indukuje transkrypcję genów białek tkanki łącznej i czynników regulujących – tropomiozyny, kolagenu, czynnika wzrostu tkanki łącznej
-\n16. AMPK – enzym aktywny w niedożywieniu komórki, hamowany przez zapasy energii i substratów energetycznych
-\n- Odpowiada na poziom energii w komórce
-\n-  Wpływa na aktywność kluczowych enzymów szlaków metabolicznych
-\n-  Adaptuje metabolizm do możliwości energetycznych organizmu
-\n- Negatywnym regulatorem allosterycznym AMPK jest fosfokreatyna
-\n- AMPK ma domenę wiążącą glikogen – wysoki poziom glikogenu w mięśniach obniża aktywność AMPK
-\n- AMPK jest aktywowana przez fosforylację i AMP
-\n- Bardzo duża czułość aktywności AMPK na działanie AMP – mała zmiana w stężeniu AMP w znacznym stopniu zwiększa aktywność AMPK
-\nAMPK hamuje procesy zużywające energię, pobudza dostarczające energii
-\n18. KTÓRY ENZYM MA NAJKRÓTSZY OKRES PÓŁTRWANIA: dekarboksylaza ornitynowa (0,008) oksygenaza tryptofanu (0,08), aminotransferaza tyrozynowa (0,06) polimeraza RNA I (0,05),
+\nSYSTEM JAKOŚCI -struktura org, delegowanie określonego zakresu odpowiedzialności i uprawnień na poszczególne osoby w przedsiębiorstwie, sposoby postępowania, procesy oraz niezbędne środki umożliwiające realizację polityki jakości
 \n
-\nGRUPA D
-\n1. CHOLESTEROL OPUSZCZA WĄTROBĘ w lipoproteinach bardzo niskiej gęstości– VLDL, które ulegają hydrolizie w IDL – lipoproteiny o gęstości pośredniej, a następnie w LDL – lipoproteiny o niskiej gęstości –pod wpływem LIPAZY LIPOPROTEINOWEJ umieszczonej w ścianach naczyń krwionośnych.
-\n2.ENZYMY W OBRONIE PRZECIWOKSYDACYJNEJ: peroksydazy glutationowe, katalaza, dysmutaza ponadtlenkowa, dehydrogenaza glukozo-6-fosforanu
-\n3. MECHANIZM WCHŁANIANIA CA W PRZEWODZIE POKARMOWYM:
-\n- Kalbindyna (ekspresja indukowana przez kalcytriol) uczestniczy we wchłanianiu jonów wapniowych transportując je wewnątrz enterocytu
-\n- W nieobecności witaminy D transport Ca spada do 1/70, Ca wchodzi do enterocytu, ale pozostaje w okolicy rąbka prążkowanego – realimentacja witaminą D powoduje rozproszenie Ca w całej cytoplazmie
-\n- Wyjście Ca z enterocytu do krwi – aktywne – na skutek działania ATP-azy wapniowej
-\nATP-aza w błonie podstawno-bocznej wytwarza w enterocycie gradient Ca, dzięki któremu jony Ca wchodzą ze światła jelita do enterocytu
-\n- Wchłanianie bierne – wzdłuż całego jelita cienkiego i w części grubego (kątnica, okrężnica wstępująca). Wchłanianie Ca w jelicie grubym – około 10% niezależnie od wielkości spożycia
-\n4. ROLA PDX
-\nCzynnik PDX1 bierze udział w indukcji ekspresji genu insuliny. Wzrost stężenia glukozy wewnątrz komórki beta powoduje fosforylację PDX1 i przemieszczenie z cytoplazmy do jądra. Podobnie działają inne składniki pokarmowe stymulujące wydzielanie insuliny (fruktoza, ksylitol, pirogronian)
-\n5. ZnT-3:
-\n-Transport Zn do pęcherzyków synaptycznych w neuronach glutaminergicznych mózgu – modulowanie sygnału – neurony gluzinergiczne
-\n-Regulator glutaminergiczny AMPA
-\n6. PRZYKŁADY GENÓW DOCELOWYCH DLA SREBP-2:
-\ngeny docelowe związane ze wzrostem poziomu cholesterolu w komórce i jego estryfikacją:
-\n- Receptor LDL
-\n- Enzymy szlaku syntezy cholesterolu
-\n- Enzymy syntezy kwasów tłuszczowych
-\n- SREBP.
-\n7. WZROST STĘŻEŃ W OSOCZU PO POSIŁKU PROPORCJONALNY DO ILOŚCI SPOŻYTEJ DOTYCZY NASTĘPUJĄCYCH AMINOKWASÓW: walina, leucyna, izoleucyna, alanina
-\n10. FUNKCJE PROTEOLIZY WEWNĄTRZKOM.
-\n- Powiązanie metabolizmu białek z metabolizmem energetycznym
-\n- Dopasowanie metabolizmu do aktualnych potrzeb przez rozkładanie enzymów i innych czynników regulujących
-\n- Zapewnienie odpowiedniej jakości białek w komórce przez usuwanie białek o nieprawidłowej strukturze
-\n- Regulacja wydzielania hormonów
-\n12.KINAZA AKTYWOWANA PRZEZ AMP STYMULUJE PROCES:
-\nfosforylacji białek zaangażowanych w odpowiedź metabolizmu na zmiany w ładunku elektrycznym komórki
-\n 13.MECHANIZM WCHŁANIANIA TIAMINY,
-\n- Przeniesienie do wnętrza enterocytów przez specyficzne transportery – antyport z jonami wodorowymi
-\n- Fosforylacja tiaminy do pirofosforanu tiaminy (TPP) – zwiększenie różnicy stężeń tiaminy między światłem jelita a wnętrzem enterocytu
-\n- Defosforylacja TPP i powstanie tiaminy (90%) oraz monofosforanu tiaminy (10%) przed przeniesieniem do krwi
-\n- Transport do krwi – symport z jonami sodowymi aktywnie wyrzucanymi do krwi przez ATP-azę sodowo-potasową
-\n15.BIAŁKA DLA RETINOIDÓW
-\na.CRBPI – cytosolowe białko wiążące retinol typu I
-\nb.CRBPII – cytosolowe białko wiążące retinol typu II
-\nc.RBP – białko wiążące retinol
-\n16. APOPTOZA – wywołana przez czynniki wewnętrzne lub zewnętrzne z uruchomieniem aparatu apoptotycznego:
-\n- Kurczenie się komórki
-\n- Powstawanie pęcherzyków na powierzchni błony komórkowej
-\n17. WPŁYW ANTYKOAGULANTU WARFARYNY NA METABOLIZM WITAMINY K POLEGA NA: INHIBICJI enzymu REDUKTAZY EPOKSYDOWEJ która jest odpowiedzialna za redukcję chinonu do hydrochinonu. Działa też przez hamowanie w wątrobie syntezy aktywnych postaci czynników krzepnięcia krwi zależnych od wit. K. Warfaryna wpływa też na zmniejszenie masy kostnej.
-\n19. GENY REGULOWANE PRZEZ KALCYTRIOL tworzą grupy:
-\n- Geny białek zaangażowanych w metabolizm wapnia i kości oraz ich regulację – kalbindyna, PTH
-\n- Metabolizm energetyczny
-\n- Metabolizm żelaza
-\n- Reakcje odpornościowe
-\n- Geny białek tkanki łącznej i regulacyjnych</string>
+\nWEWNĘTRZNE SYSTEMY ZARZĄDZANIA JAKOŚCIĄ – należą: dokumentacja techniczna, organizacyjna i produkcyjna, schematy obiegu dokumentów, instrukcje robocze, metody kontrolno-pomiarowe, a także sposoby postępowania i wytwarzania, nawet gdy nie są spisane.
+\n
+\nSYSTEMY ZARZĄDZANIA JAKOŚCIĄ
+\n•Model systemu zarządzania jakością , którego podstawą jest proces powiązania procesów
+\n•klienci  mają istotną rolę w określeniu wymagań wejściowych
+\n•Monitorowanie zadowolenia klienta wymaga oceny informacji dotyczącej percepcji klienta co do tego, czy organizacja spełnia wymagania klienta
+\n
+\nBUDOWA SYSTEMU ZAPEWNIENIA JAKOŚCI:
+\nKSIĘGA JAKOŚCI pierwsze źródło info na temat podejścia przedsięb. do zapewnienia jak., zawiera politykę jak., opis systemu jak., indeks procedur i schemat organizacyjny przedsiębiorstwa z podziałem odpowiedzialności pośród najwyższego kierownictwa.
+\nPROCEDURY – dokumenty opisujące procesy zachodzące w obszarach prowadzonej przez Rejon działalności. Okreslają one jakie komórki organizacyjne powinny brać udział w danym procesie w jakiej kolejności poszczególne działania powinny być dokonywane oraz kto powinien ponosić odpowiedzialność za ich wykonanie.
+\nINSTRUKCJE – dokumentują poziom operacyjny działań na szczeblu wykonawczym pracownik podobne do procedur, jednak opisujące czynności i odpowiedzialność za ich wykonanie w relacjach człowiek- maszyna, człowiek- narzędzie pracy
+\nSTRUKTURA ORGANIZACYJNA – odpowiedzialność,uprawnienia i związki występujące w organizacji, poprzez które spełnia ona swe funkcje. Zależności te najczęściej przedstawione są w postaci schematu blokowego
+\nPOLITYKA JAKOŚCI – ogół zamierzeń i kierunków działań organizacji dotyczących jakości, wyrażony w sposób formalny przez najwyższe kierownictwo organizacji. Element polityki organizacji,zatwierdzona przez najwyższe kierownictwo.
+\nDEKLARACJA JAKOŚCI – dokument zawierający potwierdzenie przez najwyższe kierownictwo podjęcia decyzji o przystąpieniu do realizacji Polityki Jakości
+\nAUDIT JAKOŚCI – systematyczne i niezależne badania mające na celu określenie czy działania dotyczące jakości i ich wyniki odpowiadają zaplanowanym ustaleniom, czy ustalenia są te skuteczne realizowane oraz czy ustalenia te pozwalają na osiągnięcie celów.
+\n
+\nOSIEM ZASAD ZARZĄDZANIA JAKOŚCIĄ.
+\n1.Orientacja na klienta-zrozumienie i spełnienie potrzeb klienta
+\n2.Przywództwo-Przywódcy ustalają cele działania firmy oraz utrzymują w organizacji atmosferę sprzyjającą osiągnięciu tych celów
+\n3.Zaangażowanie-wymaga się pełnego zaangażownia kierownictwa i personelu na wszystkich poziomach, dzięki dobrej komunikacji wewnątrz firmy
+\n4.Podejście procesowe- większa efektywność gdy działania są zarządzane jako proces
+\n5.Podejście systemowe do zarządzania- zarządz.wzajemnie powiązanymi procesami jako systemem zwiększa skutecznosć
+\n6.Ciągłe doskonalenie- stały cel organizacji
+\n7.Podejmowanie decyzji na podstawie faktów- Tylko decyzje wydawane w oparciu o wnioski z prowadzonych analiz i otrzymanych informacji
+\n8.Wzajemne korzystne powiązania z dostawcami- Organizacja i jej dostawcy są od siebie zależni a wzajemne powiązania zwiększają zdolność obu stron  do tworzenia wartości
+\n
+\nwg PN-EN ISO 9000-system zarządzania do kierowania organizacją i jej nadzorowanie w odniesieniu do jakości
+\n
+\nKORZYŚCI WYNIKAJĄCE Z WDROŻENIA SYSTEMÓW JAKOŚCI.
+\n•dla pracownika:standard postępowania, Jednoznacznie przydzielone odpowiedzialności i uprawnienia, Uświadomienie pracownikom ich miejsca w całej organizacji, Klarowne określenie niezbędnych zasobów do wykonania pracy oraz jasne zdefiniowanie oczekiwanych efektów.
+\n•dla kierownictwa, Wsparcie dla planowania wydatków (możliwość przewidzenia), zmian organizacyjnych, restrukturyzacyjnych, Wzrost wiarygodności firmy dla inwestora, klienta, Usprawnienie obiegu informacji w firmie, Ustanowienie jednolitych zasad funkcjonowania wewnątrz firmy
+\n•dla otoczenia- wzrost wiarygodności dla społeczności lokalnej i właściciela, Możliwość współpracy i wymiany doświadczeń z zakresu sprawnego zarządzania z podobnymi jednostkami ,Wzmocnienie budowania wizerunku firmy profesjonalnej i przyjaznej dla klienta, Podnoszenie atrakcyjności dla potencjalnych inwestorów
+\n
+\nISO 14000 - system zarządzania środowiskowego
+\n
+\nGŁÓWNE POZYCJE NORM ISO 14000
+\n-Norma ISO 14001 – określa wymagania umożliwiające sformułowanie polityki i celów z uwzględnieniem wymogów prawnych i informacji o aspektach środowiska
+\n-14004–zawiera inf. przydatne w procesie wdrażania systemu
+\n-19011–zawiera wymagania dot. Zasad postępowania przy audytowaniu systemu zarządzania środowiskiem
+\n
+\nCEL NORMY PN-EN 18001:2004- sprawniejsze zarządz. i doskonalenie działań we wszystkich obszarach danej org. w celu zmniejszenia zagrożeń i minimalizacji ryzyka zawodowego
+\n
+\nPODSTAWOWE NORMY ISO 9000
+\n•PN-EN ISO 9000 – Systemy zarządzania jakością – podstawy i terminologia
+\n•9001 –Sys.zarz.jak– wymagania
+\n•9004 –zarz. ukierunkowane na trwały sukces organizacji - podejście wykorzystujące zarz.jak.
+\n•19011 –Wytyczne dotyczące audytowania systemów zarządzania jakością i/lub systemów zarządzania środowiskowego
+\n
+\nAUDIT -systematyczny, niezależny i udokumentowany proces uzyskiwania dowodu z auditu oraz jego obiektywnej oceny w celu określenia stopnia spełniania kryteriów z auditu.
+\n
+\nZESPÓŁ AUDITOWY- 1 lub więcej auditorów przeprowadzających audit, wspomaganych przez ekspertów technicznych jeżeli jest to wymagane
+\n
+\nZASADY AUDYTOWANIA
+\n-Postępowanie etyczne, poufność – podstawa profesjonalizmu. Zaufanie, rzetelność, poufność i rozwaga-istotne
+\n-Rzetelna prezencja – obowiązek przedstawiania spraw dokładnie i zgodnie z prawdą
+\n-Integralność
+\n-Należyta staranność zawodowa – pracowitość i rozsądek w audytowaniu
+\n-Niezależność – podstawa bezstronności auditu i obiektywności wniosków z auditu
+\n-Podejście oparte na dowodach – racjonalna metoda uzyskiwania wiarygodnych i odtwarzalnych wniosków z auditu w systematycznym procesie auditu.
+\n
+\nCEL PROGRAMU AUDYTÓW- zaplanowanie rodzaju i liczby auditów oraz zidentyfikowanie i zapewnienie środków koniecznych do ich przeprowadzenia.
+\n
+\nKONIEC AUDITU-gdy wszystkie działania ujęte w planie zostaną zakończone i zatwierdzony raport z auditu zostaje rozesłany
+\n
+\nRODZAJE AUDITÓW
+\n•wewnętrzny, 1.strony - przeprowadzane przez firme lub w jej imieniu w celu przegladu zarz. oraz innych celach wewnetrznych
+\n•drugiej strony – przeprowadzany prez inne strony zainteresowane firmą: klienci lub przez inne osoby, występujące w ich imieniu.
+\n•3.strony – przeprowadzane przez niezależne organizacje zewnętrzne
+\n•połączony- razem audytowane systemy zarządzania jakością i środowiskowego
+\n•wspólny – jeśli 2 lub więcej organizacji audytujących współpracuje celem przeprowadzenia wspólnego audytu audytowanego
+\n
+\nNORMA WYMAGA 4 ELEMENTÓW AUDITU WEWNĘTRZNEGO: Kryteria,Zakres,Częstość,Metody auditu
+\n
+\nPRZEPROWADZENIE PRZEGLĄDU DOKUMENTACJI - Analiza odpowiedniej dokumentacji łącznie z zapisami, określenie ich adekwatności.
+\n
+\nIFS -International Food Standard-jednolity,międzynarodowy standard bezpieczeństwa opracowany dla wszystkich producentów żywności i uczestników łańcucha żywnościowego
+\n
+\nKTO WYMAGA CERTYFIKATU IFS?
+\n•W szczególności obowiązuje handlowców det. dostarczających pod marką własną żywność do hipermarketów
+\n•wymagany głównie przez s.handl. Niemiec,Francji,Włoch.
+\n
+\nCERTYFIKOWANIE ZGOD.Z SYS.IFS - Certyfikat wydaje, po odpowiedniej procedurze notyfikowana jednostką certyfikująca. W Polsce narodowa jednostką certyfikującą jest Polskie Centrum Badań i Certyfikacji. (PCBC)KO(KNOCK-OUT)-niezgodność z wymaganiami standardu,prowadzi do nie wydania certyfikatu
+\n
+\nIFS OBEJMUJE OBSZARY:
+\n-Zarządzanie Systemem Jakości
+\n-Odpowiedzialność kierownictwa
+\n-Zarządzanie zasobami
+\n-Procesy produkcyjne
+\n-Pomiary, Analizy, Doskonalenia
+\n
+\n10 WYMAGAŃ KO
+\n1.Odpowiedzialność kierownictwa przedsiębiorstwa
+\n2.Nadzór nad CCP
+\n3.Higiena personelu
+\n4.Specyfikacje surowców
+\n5.Specyfikacje wyrobów gotowych (receptury)
+\n6.Zarządzanie ciałami obcymi
+\n7.Identyfikowalność
+\n8.Audity wewnętrzne
+\n9.Procedura przywołania/ wycofania produktu
+\n10.Działania korygujące
+\n
+\nKRYTERIA KO
+\nA-pełna zgodność-20pkt
+\nB-prawie pełna zgodność-15pkt
+\nC-tylko niewielka część kryteriów spełniona(niemożliwa)
+\nD-wymaganie nie jest wdrożone-odcięcie 50% łącznej liczby pkt
+\n
+\nBRC – Globalny Standard Bezpieczeństwa Żywności- może być wykorzystywany jako kryterium audytu trzeciej strony przeprowadzanego przez niezależną jednostkę certyfikującą. Standard BRC sumuje wymagania zawarte w normach serii ISO, w HACCP, GMP i HP.
+\nDefiniuje jednocześnie szczegółowe wymagania, które muszą zostać spełnione, aby zagwarantować bezpieczeństwo i wymagany, powtarzalny poziom jakości wyrobu gotowego (uwzględniając prawo żywnościowe)
+\n
+\n10 WYMAGAŃ PODSTAWOWYCH BRC
+\n•Zaangażowanie najwyższego kierownictwa i ciągłe doskonalenie
+\n•Plan bezpieczeństwa żywności HACCP
+\n•Audyty wewnętrzne
+\n•Działania korygujące i zapobiegawcze
+\n•Identyfikowalność produktu
+\n•Rozplanowanie, przepływ i segregacja produktu
+\n•Utrzymanie higieny
+\n•Zarządzanie alergenami
+\n•Kontrola operacji
+\n•Szkolenie
+\n
+\n3 POZIOMY NIEZGODNOŚCI
+\n•Krytyczna–krytyczny brak spełnienia wymagań bezpieczeństwa żywności lub wym. prawnych
+\n•Duża-tam gdzie istnieje znaczące zaniechanie w zakresie spełnienia wymagań, wątpliwości co do zgodności produktu
+\n•Mała–postanowienia klauzuli nie zostały w pełni spełnione , jednak można stwierdzić, że zgodność nie budzi wątpliwości
+\n
+\nPEŁNA NAZWA NORMY ISO 9004:2010–Zarządzanie ukierunkowane na trwały sukces organizacji – podejście wykorzystujące zarządzanie jakością
+\n
+\nTQM-Total Quality Managment-kompleksowe zarz. przez jakość to sposób zarz. organizacją skoncentrowany na jakości, oparty na udziale wszystkich członków organizacji i nakierowany na osiągniecie długotrwałego sukcesu dzięki zadowoleniu klienta
+\n
+\n5 ZASAD(ŚCIAN PIRAMIDY)TQM
+\n1.zaangażowanie kierownictwa,
+\n2.koncentracja na klientach i pracownikach,
+\n3.koncentracja na faktach,
+\n4.ciągłe doskonalenie
+\n5.powszechne uczestnictwo.
+\n
+\nRÓŻNICE MIĘDZY TQM A ISO 9001
+\n1.TQM wdrażane bez dokumentacji i procedur, ISO 9001 wymagane udokumentowanie
+\n2.ocena przez zadowolenie klientów, głównie przez audyt wew. i zew.
+\n3.brak certyfikatu potwierdzającego wdrożenie, przyznawany przez jednostkę certyfikującą
+\n
+\n3 GŁÓWNE ETAPY METODYKI WPROWADZANIA TQM- inicjowania, dopasowywania procesów, integracji
+\n
+\nETAPY EWOLUCJI ZARZĄDZANIA.
+\n-Etap kontroli jakości
+\n-e.sterowania jak.
+\n-e.zapewnienia jak.
+\n-etap TQM-zarządzania jak.
+\n
+\nMETODY WPROWADZENIA TQM-inicjowanie,dopasowanie procesów, integracji
+\n
+\nZASADA 1:10:100 - im wcześniej wychwycimy błąd tym mniej będzie on nas kosztował.
+\n
+\nILU UDOKUMENTOWANYCH PROCEDUR SYSTEMOWYCH WYMAGA DO ORGANIZACJI NORMA ISO 9001:2000? 6
+\n-nadzór nad dokumentacją, nadzór nad zapisami, audit wewnętrzny, nadzór na wyrobem niezgodnym, działania korygujące, działania zapobiegawcze
+\n
+\nCEL ISO 9001:2000 -uzyskiwanie zadowolenia klienta poprzez spełnienie jego wymagań, zastosowanie systemu, doskonalenie i zapobieganie niezgodnościom.
+\n
+\nWALIDACJA - proces ustalania stopnia odpowiedniości, trafności, celowości lub ważności, dokładności.
+\n
+\nWERYFIKACJA - potwierdzenie przez przedstawienie dowodu obiektywngo,że zostały spełnione wymagania dot.konketnego zamierzonego zastosowania
+\n
+\nPOZIOMY JAKOŚCI
+\n-wymagana – stopień zgodności wyrobu lub usługi ze specyfikacją [lata 60/70]
+\n-zadowalająca – zadowolenie klienta ze spełnienia wymagań przez niego wyrażanych [teraźniejszość]
+\n-zachwycająca – przyjemne zaskoczenie dla klienta, wynikające ze spełnienia jego ukrytych wymagań i oczekiwań [przyszłość]
+\n-wirtualna – potencjalnie możliwa, postrzegana przez klienta przy zakupie
+\n-realna – rzeczywista, realizowana w użytkowaniu
+\n-odpowiednia – kiedy wyrób spełnia zakładane funkcje, koszty są zgodne z planowanymi i termin oczekiwania jest krótki.
+\n
+\nKLASY WŁAŚCIWOŚCI PRODUKTU.
+\n•Fizyczne: właściwości mech.biol.elektr.
+\n•Dotyczące zmysłów: zapach, smak, dotyk
+\n•Behawioralne: uprzejmość, uczciwość, prawdomówność
+\n•Czasowe: punktualność, niezawodność, dostępność
+\n•Ergonomiczne: właściwości fizjologiczne lub dotyczące bezpieczeństwa
+\n•Funkcjonalne: maksymalna prędkość samochodu
+    </string>
 
 </resources>

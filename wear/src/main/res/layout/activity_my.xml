@@ -7,6 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:rectLayout="@layout/rect_activity_my"
+    android:keepScreenOn="true"
     app:roundLayout="@layout/round_activity_my"
     tools:context=".MyActivity"
     tools:deviceIds="wear">
